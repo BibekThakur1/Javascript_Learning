@@ -12,9 +12,9 @@ console.log(dc_heros);
 // console.log(marvel_heros);
 
  let all_heros= marvel_heros.concat(dc_heros);
-console.log(all_heros);  //and in this way concat works 
+console.log(all_heros);  //and in this way concat works {concat limitation is that it can only join two array}
 
-//now let's talk about spread 
+//now let's talk about spread {This spread is more useful as this can help to connect more than two array}
 let newarr=[...marvel_heros,...dc_heros];
 console.log(newarr);
 
