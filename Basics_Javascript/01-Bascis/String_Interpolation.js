@@ -12,11 +12,11 @@ console.log(name1.length);
 
 console.log(name1.charAt(2));
 console.log(name1.indexOf("B"));
-console.log(name1.slice(0,5));
+// console.log(name1.slice(0,5));
 
 let name2="  Bibek ";
 console.log(name2);
-console.log(name2.trim());
+// console.log(name2.trim());
 
 
 const url= "https://urban-pancake-wqw5wv6g9xx2954x.github.dev/bibek_thakur";

@@ -38,3 +38,8 @@ JsUSer.greetingsTwo=function(){
 
 console.log(JsUSer.greetings());
 console.log(JsUSer.greetingsTwo());
+
+JsUSer.hello=function(){
+    console.log("Hello I am the Boss");
+}
+console.log(JsUSer.hello());
