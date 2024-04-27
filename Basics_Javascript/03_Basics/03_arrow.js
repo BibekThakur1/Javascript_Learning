@@ -15,12 +15,12 @@ const user = {
 
 // console.log(this);
 
-// function chai(){
+// function chaip(){
 //     let username = "hitesh"
 //     console.log(this.username);
 // }
 
-// chai()
+// chaip()
 
 // const chai = function () {
 //     let username = "hitesh"

@@ -5,12 +5,13 @@ coding.forEach((items)=>{
 })
 
 
-const myNum=[1,2,5,6,3,0];
+const myNum1=[1,2,5,6,3,0];
 
-// const newNum=myNum.filter((num)=>{
-//     return num>4
-// });
-// console.log(newNum);
+const newNu=myNum1.filter((num)=>{
+    return num>4
+});
+console.log(newNu);
+const myNum=[1,2,5,6,3,0];
 
 //else we can have to do this
 

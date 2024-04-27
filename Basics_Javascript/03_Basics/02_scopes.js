@@ -52,7 +52,7 @@ function addone(num){
 
 
 //but this below function has been assigned so it will not run  
-addTwo(5)
-const addTwo = function(num){
-    return num + 2
-}
+// addTwo(5)
+// const addTwo = function(num){
+//     return num + 2
+// }
